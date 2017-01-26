@@ -1,4 +1,4 @@
-### Getting and Cleaning Data for Data Science Coursera - Course 3, Week 4
+# Getting and Cleaning Data for Data Science Coursera - Course 3, Week 4
 
 This repository is for the "Getting and Cleaning" Data Course Project for the Data Science Coursera class. 
 
