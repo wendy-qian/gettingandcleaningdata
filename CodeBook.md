@@ -23,7 +23,7 @@ Once you have the data, edit the script in order to access the general data fold
 ## The Analysis
 
 ### Merging the data
-In run_analsis.R, the first step taken was to import all of the .txt files so that the data was in the environment. 
+In run_analysis.R, the first step taken was to import all of the .txt files so that the data was in the environment. 
 
 Before actually merging, the columns were assigned names - the subject_test.txt and subject_train.txt columns were given the name "subject", the activity_labels.txt column was given the name "activity_labels", and the X_train and X_test columns were given the corresponding names from the features.txt file. 
 
